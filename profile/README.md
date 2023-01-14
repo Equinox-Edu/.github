@@ -1,1 +1,1 @@
-![Drag Racing](EQuinox.svg)
+![](https://raw.githubusercontent.com/Equinox-Edu/.github/main/profile/EQuinox.svg)
