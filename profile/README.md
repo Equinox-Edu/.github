@@ -1,1 +1,1 @@
-![](https://raw.githubusercontent.com/Equinox-Edu/.github/main/profile/EQuinox.svg)
+![](EQuinox.png)
